@@ -1,0 +1,4 @@
+body, .navbar, .footer{
+    background: linear-gradient(45deg, blue, red);
+    color: black;
+}
